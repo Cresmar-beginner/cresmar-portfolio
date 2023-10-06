@@ -1,0 +1,488 @@
+*
+{
+    padding:0px;
+    margin:0px;
+}
+
+body
+{
+    background-color: rgb(101, 192, 245);
+    width:1423px;
+}
+
+.tonight
+{
+    margin: 40px;
+    height: 700px;
+    background-image: url(eyyyyy1.jpg);
+    background-size: cover;
+    box-shadow: black -5px 10px 20px;
+    border-radius: 10px;
+    position: static;
+}
+
+.ride
+{
+    padding-top: 15px;
+    padding-left: 30px;
+    font-size: 30px;
+    font-family: bold;
+    color: rgb(0, 0, 133);
+}
+
+.bullet
+{
+    color:rgb(204, 7, 56);
+    font-size: 40px;
+}
+
+.simbako
+{
+    margin-top: 180px;
+    margin-left: 200px;
+}
+
+.simbako .ride1
+{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: rgb(204, 7, 56) 2px solid;
+    width: 250px;
+    padding-bottom: 5px;
+}
+
+.simbako .bullet1
+{
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.simbako .p1
+{
+    padding-top: 35px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a
+{
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+a:hover
+{
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+button
+{
+    margin-top: 50px;
+    padding: 10px;
+    border: none;
+    box-shadow: black 0px 1px 10px;
+    border-radius: 5px;
+    background-color:rgb(204, 7, 56);
+}
+
+button:hover
+{
+    margin-top: 50px;
+    padding: 10px;
+    border: none;
+    box-shadow: black 0px 1px 10px;
+    border-radius: 5px;
+    background-color:rgb(0, 0, 133);
+}
+
+.contianer1
+{
+    margin: 40px;
+    height: 600px;
+    background-color: rgb(143, 142, 142);
+    background-size: cover;
+    box-shadow: black -5px 10px 20px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.contianer1 img
+{
+    margin: 100px;
+    background-size: cover;
+    box-shadow: black -1px 1px 10px;
+    border-radius: 10px;
+}
+
+.contianer1 img:hover
+{
+    margin: 100px;
+    background-size: cover;
+    box-shadow: rgb(255, 255, 255) -1px 1px 10px;
+    border-radius: 10px;
+}
+
+.contianer1 .sulod .atay0
+{
+    width: 260px;
+    padding-bottom: 2px;
+    margin-top: 115px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom:rgb(204, 7, 56) solid 2px;
+}
+
+.contianer1 .sulod .atay1
+{
+    margin-top: 20px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contianer1 .sulod .atay2
+{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.contianer1 .sulod .atay3
+{
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    width: 700px;
+}
+
+.contianer2
+{
+    margin: 40px;
+    height: 600px;
+    background-color: rgb(143, 142, 142);
+    background-size: cover;
+    box-shadow: black -5px 10px 20px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.contianer2 img
+{
+    margin: 100px;
+    background-size: cover;
+    box-shadow: black -1px 1px 10px;
+    border-radius: 10px;
+}
+
+.contianer2 img:hover
+{
+    margin: 100px;
+    background-size: cover;
+    box-shadow: rgb(255, 255, 255) -1px 1px 10px;
+    border-radius: 10px;
+}
+
+.contianer2 .sulod .atay0
+{
+    width: 260px;
+    padding-bottom: 2px;
+    margin-top: 115px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom:rgb(204, 7, 56) solid 2px;
+}
+
+.contianer2 .sulod .atay1
+{
+    margin-top: 20px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contianer2 .sulod .atay2
+{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.contianer2 .sulod .atay3
+{
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    width: 700px;
+}
+
+.contianer3
+{
+    margin: 40px;
+    height: 600px;
+    background-color: rgb(143, 142, 142);
+    background-size: cover;
+    box-shadow: black -5px 10px 20px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.contianer3 img
+{
+    margin: 100px;
+    background-size: cover;
+    box-shadow: black -1px 1px 10px;
+    border-radius: 10px;
+}
+
+.contianer3 img:hover
+{
+    margin: 100px;
+    background-size: cover;
+    box-shadow: rgb(255, 255, 255) -1px 1px 10px;
+    border-radius: 10px;
+}
+
+.contianer3 .sulod .atay0
+{
+    width: 260px;
+    padding-bottom: 2px;
+    margin-top: 115px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom:rgb(204, 7, 56) solid 2px;
+}
+
+.contianer3 .sulod .atay1
+{
+    margin-top: 20px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contianer3 .sulod .atay2
+{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.contianer .sulod .atay3
+{
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    width: 700px;
+}
+
+.contianer4
+{
+    margin: 40px;
+    height: 600px;
+    background-color: rgb(143, 142, 142);
+    background-size: cover;
+    box-shadow: black -5px 10px 20px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.contianer4 img
+{
+    margin: 100px;
+    background-size: cover;
+    box-shadow: black -1px 1px 10px;
+    border-radius: 10px;
+}
+
+.contianer4 img:hover
+{
+    margin: 100px;
+    background-size: cover;
+    box-shadow: rgb(255, 255, 255) -1px 1px 10px;
+    border-radius: 10px;
+}
+
+.contianer4 .sulod .atay0
+{
+    width: 260px;
+    padding-bottom: 2px;
+    margin-top: 115px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom:rgb(204, 7, 56) solid 2px;
+}
+
+.contianer4 .sulod .atay1
+{
+    margin-top: 20px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contianer4 .sulod .atay2
+{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.contianer4 .sulod .atay3
+{
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    width: 700px;
+}
+
+footer
+{
+    margin-top: 170px;
+    background-image: url(nge.jpg);
+    height: 370px;
+    width: 1423px;
+}
+
+.footer1 h1
+{
+    padding-top: 100px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: #000000 2px 13px 8px;
+}
+
+.footer1 img
+{
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.free
+{
+    height: 232px;
+    margin-top: 41px;
+    padding-top: 5px;
+    background-color: rgb(119, 118, 118);
+}
+
+footer .free .circle
+{
+    margin-top:20px;
+    margin-left: -5px;
+    margin-bottom: 20px;
+    border:3px solid #f3ae47;
+    width: 90px;
+    height: 35px;
+    border-radius: 30px;
+}
+
+footer .free .circle2
+{
+    margin-top:-61px;
+    margin-right: 20px;
+    border:3px solid #f3ae47;
+    width: 90px;
+    height: 35px;
+    border-radius: 30px;
+}
+
+.nge
+{
+
+    color: white;
+    font-size: 24px;
+    font-family: Georgia;
+}
+
+.text2
+{
+    position: absolute;
+    margin-top: -205px;
+    margin-left:676px;
+    font-size: 20px;
+    font-family:italic;
+    color:#88D88D;
+}
+
+footer .bobo
+{
+    padding-top: 20px;
+    margin-top: -160px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+.footer2
+{
+    padding: 5px;
+    margin-top: 10px;
+    background-color: rgb(59, 59, 59);
+}
+
+footer .pipi
+{
+    margin-top: 30px;
+    padding-left: 10;
+    padding-right: 10;
+    border: solid black 1px;
+    width: 250px;
+}
+
+footer img
+{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+
+footer .gago1 .na
+{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 420px;
+    margin-right: 30px;
+}
+
+footer .gago1
+{
+    display: list-item;
+    display: flex;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 33px;
+    background-color: #60bffd;
+}
+
+footer .gago1 .gago2
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+footer .gago1 .ra:hover
+{
+    text-decoration: none;
+    color: #88D88D;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ra
+{
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
